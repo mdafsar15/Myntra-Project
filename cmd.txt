@@ -1,0 +1,740 @@
+Microsoft Windows [Version 10.0.18362.535]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ng new afsarang
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE afsarang/angular.json (3609 bytes)
+CREATE afsarang/package.json (1294 bytes)
+CREATE afsarang/README.md (1026 bytes)
+CREATE afsarang/tsconfig.json (543 bytes)
+CREATE afsarang/tslint.json (1953 bytes)
+CREATE afsarang/.editorconfig (246 bytes)
+CREATE afsarang/.gitignore (631 bytes)
+CREATE afsarang/browserslist (429 bytes)
+CREATE afsarang/karma.conf.js (1020 bytes)
+CREATE afsarang/tsconfig.app.json (270 bytes)
+CREATE afsarang/tsconfig.spec.json (270 bytes)
+CREATE afsarang/src/favicon.ico (948 bytes)
+CREATE afsarang/src/index.html (294 bytes)
+CREATE afsarang/src/main.ts (372 bytes)
+CREATE afsarang/src/polyfills.ts (2838 bytes)
+CREATE afsarang/src/styles.css (80 bytes)
+CREATE afsarang/src/test.ts (642 bytes)
+CREATE afsarang/src/assets/.gitkeep (0 bytes)
+CREATE afsarang/src/environments/environment.prod.ts (51 bytes)
+CREATE afsarang/src/environments/environment.ts (662 bytes)
+CREATE afsarang/src/app/app.module.ts (314 bytes)
+CREATE afsarang/src/app/app.component.html (25498 bytes)
+CREATE afsarang/src/app/app.component.spec.ts (987 bytes)
+CREATE afsarang/src/app/app.component.ts (212 bytes)
+CREATE afsarang/src/app/app.component.css (0 bytes)
+CREATE afsarang/e2e/protractor.conf.js (808 bytes)
+CREATE afsarang/e2e/tsconfig.json (214 bytes)
+CREATE afsarang/e2e/src/app.e2e-spec.ts (641 bytes)
+CREATE afsarang/e2e/src/app.po.ts (262 bytes)
+npm WARN registry Using stale data from https://registry.npmjs.org/ because the host is inaccessible -- are you offline?npm WARN registry Using stale package data from https://registry.npmjs.org/ due to a request error during revalidation.
+npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\selenium-webdriver-d300daef\firefox\binary.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\selenium-webdriver-d300daef\firefox\extension.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\selenium-webdriver-d300daef\firefox\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\tslint-d70a3e62\lib\linter.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\selenium-webdriver-d300daef\firefox\profile.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\tslint-d70a3e62\lib\linter.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\protractor-681c4538\built\debugger\clients\explorer.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\tslint-d70a3e62\lib\ruleLoader.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-dynamic-8fb39aec\esm2015\src\resource_loader\resource_loader_cache.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\protractor-681c4538\built\debugger\clients\wddebugger.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\tslint-d70a3e62\lib\ruleLoader.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@babel\parser-57c0467b\lib\plugins\typescript\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-dynamic-8fb39aec\esm2015\src\resource_loader\resource_loader_impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-dynamic-8fb39aec\esm2015\src\version.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isChildNodeOf.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isHiddenFromScreenReader.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isInteractiveElement.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\config_source.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isNotNullOrUndefined.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isPresentationRole.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\bundle-calculator.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\jitReflector.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\check-port.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\util\cachedMerge.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\client\utils\log.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\logger.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\CachePlugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\lib\utils\normalizeOptions.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\metadata.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\bin\options.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\CaseSensitiveModulesWarning.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\common.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\metadataReader.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\Chunk.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\models\interface.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\lib\utils\processOptions.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\default-progress.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\ngQuery.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\ChunkGroup.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\utilities\json-schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\client\utils\reloadApp.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\delete-output-dir.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\ngVersion.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\lib\utils\routes.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\es5-jit-polyfills.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\ngWalker.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\optimize\ChunkModuleIdRangePlugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\karma-385cf29f\lib\init\color_schemes.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\lib\utils\runBonjour.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\es5-polyfills.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\ChunkRenderError.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\karma-385cf29f\lib\init\formatters.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\lib\utils\runOpen.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\find-tests.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\ngWalkerFactoryUtils.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\ChunkTemplate.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\plugins\karma.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\karma-385cf29f\lib\init\log-queue.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\client\utils\sendMessage.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\find-up.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\util\cleverMerge.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\lint-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\karma-385cf29f\lib\init\state_machine.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\gecko_driver_github.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\index-html-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\lint.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\karma-385cf29f\lib\launcher.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\gecko_driver.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\CommentCompilationWarning.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\new-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\dependencies\CommonJsPlugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\new.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\delegates\License'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\dependencies\CommonJsRequireContextDependency.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\bin\postinstall\ng-update-message.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\iedriver_xml.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\dependencies\CommonJsRequireDependency.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\utilities\package-manager.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\detect-libc\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\iedriver.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\dependencies\CommonJsRequireDependencyParserPlugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\utilities\package-metadata.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\lib\utils\setupExitSignals.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\CommonJsStuffPlugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\utilities\package-tree.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\client\socket.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\compareLocations.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\models\parser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-dev-server-26b4116c\client\sockjs.bundle.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\CompatibilityPlugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webpack-c713c215\lib\Compilation.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\utilities\project.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\initialize.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\run-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\logger.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\run.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\options.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\opts.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\programs.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\shutdown.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\standalone_xml.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\standalone.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\start.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\objectKeys.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\status.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-js-extender-c97ed39c\built\built\built\built\built\built\built\built\built\built\built\built\built\built\built\built\spec\command_tests\totally_real_apk.apk'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\parseCss.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\update.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\parseUtil.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\utils.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\urlResolvers\pathResolver.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\version.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\webdriver.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\recursiveAngularExpressionVisitor.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\abstract_control_directive.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\referenceCollectorVisitor.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\android_sdk.js.map'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-js-extender-c97ed39c\built\built\built\built\built\built\built'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\abstract_form_group_directive.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\appium.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\binary.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\selectorValidator.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\checkbox_value_accessor.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\chrome_driver.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\control_container.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\sourceMappingVisitor.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\control_value_accessor.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\chrome_xml.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\tslint-d70a3e62\CHANGELOG.md'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\clean.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\default_value_accessor.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli_instance.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\animations-b31daa58\esm2015\animations.externs.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\cli.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\error_examples.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\animations-b31daa58\esm2015\animations.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\config_source.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\form_interface.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\config.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\ng_control_status.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\files\downloaded_binary.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\files\downloader.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\ng_control.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\files\file_manager.js.map'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\router-37f0aa0c\esm2015\src'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\ng_form_selector_warning.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\gecko_driver_github.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\router-37f0aa0c\esm2015\src\config.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\forms-35894227\esm2015\src\directives\ng_form.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\animations-b31daa58\esm2015\browser\browser.externs.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\gecko_driver.js.map'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\bin\postinstall'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\animations-b31daa58\esm2015\browser\browser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\node\spec\helpers\reporter.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\http_utils.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\animations-b31daa58\esm2015\browser\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\iedriver_xml.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\animations-b31daa58\esm2015\browser\public_api.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\iedriver.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\index.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\index.js.map'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\index.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\files\index.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\initialize.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\logger.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\options.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\opts.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cli\programs.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\templateParser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\shutdown.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\build-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\standalone_xml.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\build.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\binaries\standalone.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\urlResolvers\urlResolver.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\start.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\esm2015\src\browser\location\browser_platform_location.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\status.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\protractor\package.json'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\esm2015\src\browser\location\history.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\is-fullwidth-code-point\license'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\update.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\protractor\README.md'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\esm2015\src\browser\meta.js'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\ngcc\src\logging'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\config-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\protractor\protractor.conf.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\utils.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\esm2015\src\browser\server-transition.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\cmds\version.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\config.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\built\lib\webdriver.js.map'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\esm2015\src\browser\testability.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-manager-23f4e66d\CHANGELOG.md'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\esm2015\src\browser\title.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\definitions.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\utils.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\deploy-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\deploy.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\deprecated-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\deprecated.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\doc-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\doc.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\e2e-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\bundle-budget.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\e2e.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\easter-egg-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\easter-egg.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\models\error.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\utilities\find-up.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\urlResolvers\abstractResolver.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\typescript\package.json'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\generate-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\typescript\README.md'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\generate.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\astQuery.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\help-impl.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\attributesComparator.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-js-extender-c97ed39c\built\built\built\built\built\built\built\built\built\built\built\built\built\built\spec\command_tests\totally_real_apk.apk'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\cli-159ea740\commands\help.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\basicCssAstVisitor.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\basicTemplateAstVisitor.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\cleancss-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\chars.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\classDeclarationUtils.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\common.js'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-js-extender-c97ed39c\built\built\built'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\mkdirp\LICENSE'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\webdriver-js-extender-c97ed39c\built'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\config.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\cssAst.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\cssLexer.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\index-html-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\jasmine-spec-reporter-e2f1ee1a\examples\typescript\spec\helpers\jasmine-runner.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\cssParser.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\nopt\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\expressionTypes.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\fileResolver\fileResolver.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\fileResolver\fsFileResolver.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\function.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\getAttributeValue.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\npm-normalize-package-bin\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\getLiteralValue.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\getSuggestion.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isChildNodeOf.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isHiddenFromScreenReader.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isInteractiveElement.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isNotNullOrUndefined.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\isPresentationRole.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\jitReflector.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\logger.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\metadata.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\metadataReader.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\ngQuery.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\ngVersion.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\ngWalker.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\ngWalkerFactoryUtils.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\objectKeys.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\parseCss.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\styles\parseUtil.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\urlResolvers\pathResolver.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\recursiveAngularExpressionVisitor.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\referenceCollectorVisitor.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\selectorValidator.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\sourceMappingVisitor.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\osenv\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\zone.js-e93ff251\lib\jasmine\jasmine.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\is-directory.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\jit-polyfills.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\karma-webpack-failure-cb.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\common-17494853\esm2015\http\testing\src\api.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\karma.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\common-17494853\esm2015\http\testing\src\backend.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\mangle-options.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\named-chunks-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\common-17494853\esm2015\http\testing\src\module.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\templates\templateParser.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-asset-patterns.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\common-17494853\esm2015\http\testing\src\request.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-builder-schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\angular\urlResolvers\urlResolver.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-file-replacements.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-optimization.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-source-maps.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\package-chunk-sort.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\postcss-cli-resources.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\process-bundle-bootstrap.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\platform-browser-6050a950\bundles\platform-browser-animations.umd.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\util\utils.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\readable-stream\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\process-bundle.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\walkerFactory\walkerFactory.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\raw-css-loader.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\codelyzer-1d003032\walkerFactory\walkerFn.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\read-tsconfig.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\remove-hash-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\run-module-as-observable-fork.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\run-module-worker.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\safari-nomodule.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\app-shell\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\dev-server\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\extract-i18n\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\karma\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\protractor\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\server\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\tslint\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\scripts-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\server.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\single-test-transform.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\stats.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\stats.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\strip-bom.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\styles.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\suppress-entry-chunks-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\test.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\transforms.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\typescript.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\utils.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\wrappy\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\delegates\Makefile'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\isarray\Makefile'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\abbrev\abbrev.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\wide-align\align.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\node_modules\minimist\test\all_bool.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\gauge\base-theme.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rimraf\bin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\node_modules\minimist\test\bool.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\browser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\util-deprecate\browser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\chownr\chownr.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\cli.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\debug\src\common.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\glob\common.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\test\compression_spec.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\minizlib\constants.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\test\cookies_spec.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\lib\cookies.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\tar\lib\create.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\safer-buffer\dangerous.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\node_modules\minimist\test\dash.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\test\decoder_spec.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\lib\decoder.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\node_modules\minimist\test\default_bool.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\readable-stream\lib\internal\streams\destroy.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\rc\node_modules\minimist\test\dotted.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\readable-stream\duplex-browser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\readable-stream\duplex.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\gauge\error.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\test\errors_spec.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\iconv-lite\lib\extend-node.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\tar\lib\extract.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\glob\glob.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\node-pre-gyp\lib\util\handle_gyp_opts.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\gauge\has-color.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\tar\lib\header.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\tar\lib\high-level-opt.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\ansi-regex\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\aproba\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\are-we-there-yet\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\balanced-match\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\brace-expansion\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\code-point-at\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\concat-map\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\console-control-strings\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\debug\src\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\deep-extend\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\delegates\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\delegates\test\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\fs-minipass\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\fs.realpath\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\gauge\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\has-unicode\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\iconv-lite\encodings\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\iconv-lite\lib\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\ignore-walk\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\is-fullwidth-code-point\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\isarray\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\minimist\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\minipass\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\minizlib\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\mkdirp\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\nopt\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\npm-normalize-package-bin\LICENSE'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\browser.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\bundle-budget.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\cleancss-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\common.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\index-html-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\delegates\Makefile'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\isarray\Makefile'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\needle\bin\needle'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\dev-server\index.js'
+npm WARN tar ENOENT: no such file or directory, lstat 'C:\WINDOWS\system32\afsarang\node_modules\.staging\fsevents-4e2d385e\node_modules\node-pre-gyp'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\index.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\is-directory.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\jit-polyfills.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\karma-webpack-failure-cb.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\karma.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\mangle-options.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\named-chunks-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-asset-patterns.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-builder-schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-file-replacements.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-optimization.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-source-maps.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\package-chunk-sort.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\postcss-cli-resources.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\process-bundle-bootstrap.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\process-bundle.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\raw-css-loader.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\read-tsconfig.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\remove-hash-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\run-module-as-observable-fork.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\run-module-worker.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\safari-nomodule.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\app-shell\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\dev-server\schema.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\scripts-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\server.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\single-test-transform.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\stats.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\stats.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\strip-bom.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\styles.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\suppress-entry-chunks-webpack-plugin.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\test.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\typescript.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\utils.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\version.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\webpack-browser-config.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\webpack.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\worker.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\index-file\write-index-html.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\app-shell\schema.json'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\schema.json'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\dev-server\schema.json'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\action-cache.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\action-executor.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\plugins\webpack\analytics.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\index-file\augment-index-html.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\browser.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\build-browser-features.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\build-options.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\bundle-budget.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\bundle-calculator.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\check-port.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\cleancss-webpack-plugin.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\common.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\default-progress.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\delete-output-dir.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\find-tests.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\find-up.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\index-html-webpack-plugin.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\service-worker\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\app-shell\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\dev-server\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\extract-i18n\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\karma\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\protractor\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\server\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\tslint\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\index.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\is-directory.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\karma-webpack-failure-cb.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\karma.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\mangle-options.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\named-chunks-plugin.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-asset-patterns.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-builder-schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-file-replacements.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-optimization.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\normalize-source-maps.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\package-chunk-sort.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\postcss-cli-resources.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\process-bundle.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\raw-css-loader.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\read-tsconfig.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\remove-hash-plugin.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\run-module-as-observable-fork.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\app-shell\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\browser\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\dev-server\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\extract-i18n\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\karma\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\protractor\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\server\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\tslint\schema.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\scripts-webpack-plugin.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\server.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\single-test-transform.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\stats.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\stats.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\strip-bom.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\styles.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\suppress-entry-chunks-webpack-plugin.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\test.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\transforms.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\typescript.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\utils.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\test\utils.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\version.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\utils\webpack-browser-config.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\plugins\webpack.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\models\webpack-configs\worker.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular-devkit\build-angular-760326d7\src\angular-cli-files\utilities\index-file\write-index-html.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\src\ngtsc\indexer\src\api.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\src\ngtsc\indexer\src\api.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\src\ngtsc\indexer\src\context.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\src\ngtsc\indexer\src\context.js'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\src\ngtsc\indexer\src\template.d.ts'
+npm WARN tar ENOENT: no such file or directory, open 'C:\WINDOWS\system32\afsarang\node_modules\.staging\@angular\compiler-cli-3bbe1d7a\src\ngtsc\indexer\src\template.js'
+npm WARN karma-jasmine-html-reporter@1.5.1 requires a peer of jasmine-core@>=3.5 but none is installed. You must install peer dependencies yourself.
+
+npm ERR! code ENOTFOUND
+npm ERR! errno ENOTFOUND
+npm ERR! network request to https://registry.npmjs.org/@angular/core/-/core-8.2.14.tgz failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\HP\AppData\Roaming\npm-cache\_logs\2020-01-08T08_39_16_139Z-debug.log
+Package install failed, see above.
+
+C:\WINDOWS\system32>ng new afsarangul
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE afsarangul/angular.json (3625 bytes)
+CREATE afsarangul/package.json (1296 bytes)
+CREATE afsarangul/README.md (1028 bytes)
+CREATE afsarangul/tsconfig.json (543 bytes)
+CREATE afsarangul/tslint.json (1953 bytes)
+CREATE afsarangul/.editorconfig (246 bytes)
+CREATE afsarangul/.gitignore (631 bytes)
+CREATE afsarangul/browserslist (429 bytes)
+CREATE afsarangul/karma.conf.js (1022 bytes)
+CREATE afsarangul/tsconfig.app.json (270 bytes)
+CREATE afsarangul/tsconfig.spec.json (270 bytes)
+CREATE afsarangul/src/favicon.ico (948 bytes)
+CREATE afsarangul/src/index.html (296 bytes)
+CREATE afsarangul/src/main.ts (372 bytes)
+CREATE afsarangul/src/polyfills.ts (2838 bytes)
+CREATE afsarangul/src/styles.css (80 bytes)
+CREATE afsarangul/src/test.ts (642 bytes)
+CREATE afsarangul/src/assets/.gitkeep (0 bytes)
+CREATE afsarangul/src/environments/environment.prod.ts (51 bytes)
+CREATE afsarangul/src/environments/environment.ts (662 bytes)
+CREATE afsarangul/src/app/app.module.ts (314 bytes)
+CREATE afsarangul/src/app/app.component.html (25498 bytes)
+CREATE afsarangul/src/app/app.component.spec.ts (993 bytes)
+CREATE afsarangul/src/app/app.component.ts (214 bytes)
+CREATE afsarangul/src/app/app.component.css (0 bytes)
+CREATE afsarangul/e2e/protractor.conf.js (808 bytes)
+CREATE afsarangul/e2e/tsconfig.json (214 bytes)
+CREATE afsarangul/e2e/src/app.e2e-spec.ts (643 bytes)
+CREATE afsarangul/e2e/src/app.po.ts (262 bytes)
+npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+
+> core-js@2.6.11 postinstall C:\WINDOWS\system32\afsarangul\node_modules\babel-runtime\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.2.1 postinstall C:\WINDOWS\system32\afsarangul\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> core-js@2.6.11 postinstall C:\WINDOWS\system32\afsarangul\node_modules\karma\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> @angular/cli@8.3.21 postinstall C:\WINDOWS\system32\afsarangul\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+npm WARN karma-jasmine-html-reporter@1.5.1 requires a peer of jasmine-core@>=3.5 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\webpack-dev-server\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\watchpack\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\karma\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\@angular\compiler-cli\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.2 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 1193 packages from 1051 contributors and audited 18835 packages in 226.209s
+found 0 vulnerabilities
+
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in browserslist.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/protractor.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.e2e-spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.po.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in karma.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.app.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.spec.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tslint.json.
+The file will have its original line endings in your working directory
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'HP@DESKTOP-IK65DAA.(none)')
+
+C:\WINDOWS\system32>
+C:\WINDOWS\system32>
+C:\WINDOWS\system32>cd afsarangul
+
+C:\Windows\System32\afsarangul>code .
+'code' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Windows\System32\afsarangul>code .;
+'code' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Windows\System32\afsarangul>code .
+'code' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Windows\System32\afsarangul>ng serve
+Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+10% building 3/3 modules 0 activei ｢wds｣: Project is running at http://localhost:4200/webpack-dev-server/
+i ｢wds｣: webpack output is served from /
+i ｢wds｣: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 47.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.71 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-01-08T16:27:37.303Z - Hash: 8d379a16f314284a61e5 - Time: 127193ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+i ｢wdm｣: Compiled successfully.
